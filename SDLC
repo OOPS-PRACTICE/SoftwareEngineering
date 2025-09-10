@@ -1,0 +1,41 @@
+Software Development Lifecycle (SDLC) :
+
+🛠️ Software Development Life Cycle (SDLC): A Strategic Framework
+The Software Development Life Cycle (SDLC) serves as a comprehensive blueprint for delivering high-quality software in a structured and reliable manner. 
+By dividing the project into distinct phases and adopting an appropriate development model—such as Waterfall, Agile, or Spiral—organizations can optimize resource allocation, 
+reduce risks, and maintain consistent quality from initial concept to long-term support.
+
+SDLC is a disciplined methodology used by software development teams to plan, build, test, and deploy robust software solutions. 
+It ensures that the final product aligns with customer expectations, remains cost-effective, and is delivered within the desired timeframe.
+
+🔄 Core Phases of the SDLC
+Planning & Feasibility Analysis :
+Define project objectives, scope, and potential challenges
+Evaluate technical and financial feasibility (budget, timeline, resources)
+Develop an initial roadmap and success criteria
+
+Requirements Gathering & Analysis :
+Collaborate with stakeholders to capture both functional and non-functional needs
+Document clear specifications or user stories to guide development
+
+Design :
+Convert requirements into a detailed technical blueprint or system architecture
+Outline data models, interfaces, and workflows
+Share design documentation with developers and stakeholders
+
+Implementation (Coding) :
+Developers write and integrate code based on the design specifications
+Incorporate practices like code reviews, version control, and continuous integration
+
+Testing :
+Verify that the software meets requirements and performs as intended
+Conduct various tests: unit, integration, system, performance, and user acceptance
+Identify and resolve defects before release
+
+Deployment :
+Launch the software into the production environment or distribute it to users
+May include final setup, user training, and documentation handover
+
+Maintenance :
+Address bugs, implement enhancements, and roll out updates post-deployment
+Ensure the software remains secure, scalable, and aligned with evolving user needs
