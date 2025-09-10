@@ -1,0 +1,37 @@
+What is Software Engineering ?
+
+Software engineering is a structured and methodical discipline focused on the design, development, testing, and upkeep of software systems—such as applications, websites, and computer programs. 
+It relies on established principles, processes, methodologies, tools, and best practices to ensure quality and efficiency throughout the software lifecycle.
+
+How to Use Software Engineering ? 
+
+Software engineering follows a series of well-defined stages to ensure successful software creation:
+
+Requirements: Identify and clarify what the software is expected to accomplish.
+Design: Strategize the structure, appearance, and behavior of the software.
+Implementation: Convert the design into functional code.
+Testing: Validate that the software performs as intended and is free of critical issues.
+Deployment: Launch the software for user access and interaction.
+Maintenance: Continuously improve, update, and fix the software as needed.
+
+Stake Holders in Software Development ?
+
+Developers: Those who write the software code.
+Testers (QA): Responsible for quality assurance.
+Project Managers: Oversee the project's progress.
+Executives and Decision-Makers: Provide strategic direction and resources.
+Customers: The individuals or organizations purchasing the software.
+End-Users: The people who directly interact with the software.
+Investors: Provide financial backing for the project.
+Product Manager : Defines the product vision and overall strategy. Gathers and prioritizes requirements, often working closely with users and other stakeholders to shape the product backlog.
+Scrum Master : Plans, organizes and monitors the projects's schedule, scope and budget.
+Business Analysts : Elicit and document software requirements, often stakeholder interviews and process analysis. Serve as a liaison between business units and the technical team, clarifying needs and constraints.
+Subject Matter Experts (SMEs): Possess deep knowledge of the domain or industry where the software is deployed. Advise on domain-specific requirements, regulations, or best pratices
+Operations/DevOps/System Administrators: Manage infrastructure, deployment pipelines, and production environments.
+Maintenance and support team : Provide ongoing support to address issues post-launch.
+Regulators: Government bodies or industry organizations that set standards. like data protection regulations.
+
+
+
+
+
