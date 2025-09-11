@@ -3,3 +3,6 @@
 - Role of a Software Engineers
 - Type of Models in Software Engineering
 - Waterfall Model
+- Discussion on the College UseCase SDLC
+- Prototype Model
+- Spiral Model
