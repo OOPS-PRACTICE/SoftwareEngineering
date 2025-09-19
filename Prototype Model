@@ -1,0 +1,153 @@
+🧪 Prototyping Model: A User-Centric Development Approach
+The Prototyping Model is a flexible and interactive methodology within the Software Development Life Cycle (SDLC), ideal for projects where initial requirements are vague or incomplete. It emphasizes early user involvement by creating preliminary versions of the software—prototypes—that help visualize functionality, gather feedback, and refine requirements before full-scale development begins.
+
+🔄 Phases of the Prototyping Model
+1. 📋 Requirements Gathering & Analysis (1–3 weeks)
+Activities:
+
+Engage stakeholders to define project goals and high-level needs.
+
+Conduct interviews, surveys, or workshops to clarify expectations.
+
+Prioritize key features and establish the scope for the initial prototype.
+
+Deliverables:
+
+Drafted requirements (e.g., user stories, feature list)
+
+Initial risk analysis and success criteria
+
+2. ✏️ Quick Design (1–2 weeks)
+Activities:
+
+Create low-fidelity sketches, wireframes, or flowcharts for core features.
+
+Define basic data structures and UI components.
+
+Deliverables:
+
+Design mockups or concept documents
+
+UI flow diagrams
+
+3. 🛠️ Prototype Development & Initial Evaluation (2–4 weeks)
+Activities:
+
+Build a throwaway or early evolutionary prototype focusing on essential features and high-risk areas.
+
+Use rapid development tools or simplified code for quick delivery.
+
+Deliverables:
+
+Functional prototype with limited capabilities (e.g., UI screens, basic data handling)
+
+Initial codebase (if evolutionary)
+
+4. 👥 User Feedback & Evaluation (1–2 weeks)
+Activities:
+
+Present the prototype to users, stakeholders, and sponsors.
+
+Collect feedback on usability, missing features, and performance.
+
+Document suggestions and enhancement requests.
+
+Deliverables:
+
+Feedback summary
+
+Revised requirements based on user input
+
+5. 🔁 Prototype Refinement (2–4 weeks per cycle)
+Activities:
+
+Apply feedback to update design and requirements.
+
+Improve functionality, UI, and performance.
+
+Refactor code if the prototype is evolving into the final product.
+
+Deliverables:
+
+Enhanced prototype version
+
+Updated design documentation and user stories
+
+Note: Steps 3–5 are often repeated across multiple cycles until the product meets user expectations and reaches desired maturity.
+
+6. 🧩 Finalization & Integration (2–6 weeks)
+Activities:
+
+Stabilize the prototype to meet performance, security, and reliability standards.
+
+Conduct comprehensive testing (integration, load, security).
+
+Prepare final documentation, training materials, and user guides.
+
+Deliverables:
+
+Production-ready system
+
+Test results, deployment plan, and user documentation
+
+7. 🚀 Deployment & Maintenance (Ongoing)
+Activities:
+
+Launch the system in the live environment.
+
+Provide continuous support, bug fixes, and updates.
+
+Monitor usage and gather feedback for future improvements.
+
+Deliverables:
+
+Operational software in production
+
+Maintenance logs and feedback reports
+
+⚠️ Key Considerations
+Iterative Cycles: Multiple rounds of prototyping are often needed to meet stakeholder expectations.
+
+Parallel Activities: Tasks like documentation and basic testing may run concurrently with development to save time.
+
+Team Dynamics: Larger or more skilled teams can accelerate development and handle multiple features simultaneously.
+
+Scope Management: New ideas often emerge during prototyping. Without careful control, this can lead to scope creep, increasing time and cost.
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+Evolutionary vs Throwaway :
+
+Throwaway Prototypes - Build strictly to clarify requirements , then discarded. This often requires additional time later to build the production-quality system from scratch.
+
+Evolutionary Prototypes :
+Potentially become the foundation of the final system. This approach may save some time in coding but requires solid architecture from the start to avoid major refactoring
+
+🧩 Types of Prototyping Models
+Type	                        Description
+Rapid Throwaway	         Quickly built to gather requirements, then discarded.
+Evolutionary	         Continuously refined until the final system emerges.
+Incremental	         Built in parts, each refined and added to the final system.
+Extreme Prototyping	 Used mainly in web development; involves multiple stages of refinement
+
+✅ Advantages
+
+Clarifies vague requirements
+Encourages user involvement
+Early detection of design flaws
+Reduces risk of project failure
+
+⚠️ Disadvantages
+Can lead to unrealistic expectations
+
+May become too customer-specific
+
+Time-consuming and costly
+
+Risk of poor architecture if rushed
+
+
+
+
