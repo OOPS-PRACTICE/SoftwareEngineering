@@ -6,3 +6,7 @@
 - Discussion on the College UseCase SDLC
 - Prototype Model
 - Spiral Model
+- Incremental Model
+- Iterative Model
+- Agile Model
+- Introduction of SRS and a sample document
