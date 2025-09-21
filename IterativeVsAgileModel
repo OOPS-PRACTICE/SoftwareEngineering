@@ -1,0 +1,26 @@
+Feature	                                  Iterative Model	                                                         Agile Model
+Development Approach	   Repeated refinement of a single system through cycles (iterations)	      Incremental delivery of working software in short cycles (sprints)
+Timeline Structure	          Iterations typically last 2–6 weeks	                                        Sprints usually last 1–4 weeks
+Planning	           Initial planning followed by refinement in each iteration	                     Continuous planning before each sprint
+User Involvement	       Feedback is gathered after each iteration	                            High user involvement with feedback after every sprint
+Flexibility	           Moderate flexibility; changes are incorporated in future iterations	              High flexibility; changes can be made even mid-sprint
+Testing	                         Testing occurs at the end of each iteration	                            Testing is integrated throughout each sprint
+Documentation	                         More structured and formal	                                            Lightweight and adaptive
+Team Roles	                       Project Manager and Developers	                                  Scrum Master, Product Owner, Development Team
+Delivery	               Final product delivered after multiple iterations	                 Working software delivered at the end of each sprint
+Best For	           Projects with evolving requirements but needing structure	              Projects requiring rapid delivery and frequent changes
+
+
+🕒 Timeline Example
+Iterative Model Timeline (12-week project)
+Week 1–2: Requirements & Planning
+Week 3–5: Iteration 1 – Basic functionality
+Week 6–8: Iteration 2 – Feature refinement
+Week 9–11: Iteration 3 – Performance and UI improvements
+Week 12: Final testing and deployment
+
+Agile Model Timeline (12-week project with 3-week sprints)
+Sprint 1 (Week 1–3): Core features
+Sprint 2 (Week 4–6): Additional modules
+Sprint 3 (Week 7–9): UI enhancements and bug fixes
+Sprint 4 (Week 10–12): Final polish and deployment
