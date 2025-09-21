@@ -1,0 +1,27 @@
+🔄 Iterative Model
+Focus: Refinement through repetition
+Approach: Develop a working version of the software and continuously improve it through repeated cycles (iterations).
+Goal: Enhance the same product version based on feedback and testing.
+Process: Each iteration includes planning, design, coding, testing, and evaluation.
+Output: A progressively refined version of the same system.
+
+Example:
+You build a basic version of a photo editing app, then improve its performance, UI, and features in each cycle.
+
+➕ Incremental Model
+Focus: Gradual expansion of functionality
+Approach: Build the software in small, functional pieces (increments), each adding new capabilities.
+Goal: Deliver parts of the system step-by-step until the full product is complete.
+Process: Each increment is developed and tested independently, then integrated.
+Output: A growing system with new features added in each stage.
+
+Example:
+You first release a login module, then add photo upload, then editing tools, and finally sharing features.
+
+🆚 Key Differences
+Feature	                        Iterative Model	                                         Incremental Model
+Development Style	Repeated refinement of the same version	                 Step-by-step addition of new features
+Feedback Integration	       After each iteration	                                After each increment
+Delivery	           Partial but evolving product	                      Functional modules added progressively
+Risk Handling	             Early feedback reduces risk	                    Modular delivery isolates risk
+Use Case	          Projects with evolving requirements	               Projects needing early partial delivery
