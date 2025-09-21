@@ -1,0 +1,15 @@
+🔍 Key Differences Between Incremental and Agile Models
+Feature	                                       Incremental Model	                                        Agile Model
+Approach	                         Builds software in fixed increments	                    Builds software in short, iterative cycles (sprints)
+Flexibility	               Less flexible; changes are harder once increments are planned	  Highly flexible; embraces changes even late in development
+Customer Involvement	          Limited; feedback usually after each increment	          High; customers collaborate throughout the process
+Delivery	               Final product delivered after all increments are complete	        Working software delivered after every sprint
+Planning	                 Detailed upfront planning for each increment	                     Adaptive planning; evolves with feedback
+Team Structure	                    Traditional roles (PM, devs, testers)	                       Cross-functional, self-organizing teams
+Focus	                              Functionality added in stages	                           Value delivered continuously with customer feedback
+🧠 Summary
+Incremental Model is like building a house room by room, with a blueprint fixed early on.
+
+Agile Model is like designing a house with the owner present, adjusting the plan as their needs evolve.
+
+If you're working on a project with stable requirements, incremental might work well. But if you're dealing with changing needs or uncertain goals, Agile is your best friend
